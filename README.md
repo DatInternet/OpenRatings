@@ -1,3 +1,4 @@
+<br><br>
 <p align="center">
   <a href="https://example.com">
     <img src="https://media.datinternet.nl/openratings/branding/logo.svg" width="200">
