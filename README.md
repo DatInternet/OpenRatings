@@ -1,9 +1,8 @@
 <p align="center">
   <a href="https://example.com">
-    <img src="https://media.datinternet.nl/openratings/branding/logo.svg" width="150">
+    <img src="https://media.datinternet.nl/openratings/branding/logo.svg" width="200">
   </a>
 </p>
-<h3 align="center">OpenRatings</h3>
 
 <p align="center">
   A open source, free to use Ratings system 
