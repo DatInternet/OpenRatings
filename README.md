@@ -18,4 +18,4 @@
 
 ## Copyright and license
 
-© Copyright 2019 - 2020 DatInternet. Code released under the MIT license.
+© Copyright 2019 - 2022 DatInternet. Code released under the MIT license.
