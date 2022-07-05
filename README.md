@@ -11,6 +11,11 @@
   <h3 align="center">Now in development!</h3>
 </p>
 
+## Downloads
+
+<p align="center">
+![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
+</p>
 
 ## Table of Contents
 - [Copyright and license](#copyright-and-license)
