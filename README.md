@@ -13,8 +13,7 @@
 
 ## Downloads
 
-![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
-
+[<img src="[http://www.google.com.au/images/nav_logo7.png](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)">](http://google.com.au/)
 
 ## Table of Contents
 - [Copyright and license](#copyright-and-license)
